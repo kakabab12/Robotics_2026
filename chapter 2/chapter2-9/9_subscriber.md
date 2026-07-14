@@ -32,7 +32,7 @@
 ## 4. 최종 결과물
 
 ### 4.1 시각화 (rqt_graph)
-![rqt_graph 캡처 이미지](./Screenshot from 2026-07-14 18-51-57.png)
+![rqt_graph 캡처 이미지](./rqt_graph.png)
 - `circle_turtle` 노드(퍼블리셔)가 `/turtle1/cmd_vel`을 발행하여 거북이를 제어함.
 - `turtle_pose` 노드(서브스크라이버)가 `/turtle1/pose`를 구독하여 상태를 실시간 로깅함.
 
