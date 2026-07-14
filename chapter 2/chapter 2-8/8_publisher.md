@@ -13,4 +13,4 @@
 - `rqt_graph`를 통해 `circle_turtle_node`가 게시자로서 `/turtle1/cmd_vel` 토픽을 발행하고 있음을 확인했습니다.
 
 
-![rqt_graph 결과](./Screenshot from 2026-07-11 14-17-54.png)
+![rqt_graph 결과](./Screenshot%20from%202026-07-11%2014-17-54.png)
